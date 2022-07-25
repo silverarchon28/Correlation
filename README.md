@@ -7,6 +7,7 @@ This application accepts a start and end date and will return the following data
 
 
 Build Instructions
+
 Download files from https://github.com/silverarchon28/Correlation
 
 Open Correlation.sln
