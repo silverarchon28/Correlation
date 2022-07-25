@@ -14,7 +14,9 @@ Open Correlation.sln
 
 (If needed)
 From the Tools menu, select NuGet Package Manager, then select Package Manager Console. In the Package Manager Console window, enter the following command:
+
 Install-Package Microsoft.AspNet.WebApi.OwinSelfHost
+
 Install-Package Microsoft.Owin.Cors
 
 Run Correlation.sln
